@@ -31,7 +31,8 @@ An Excel dashboard using pivot tables and charts to provide a simplified yet int
 - **Monthly Sales Trend**: Month-wise net sales performance.
 - **Interactive Filters**: Year, Product Type, City, Order Number
 **
-  SQL Description Summary**
+  ## **SQL Description Summary**
+  
 Duplicate Records: SQL can identify duplicate rows by grouping data on specific columns and counting occurrences. This helps find repeated entries in your dataset.
 
 Deletion: You can remove unwanted or duplicate records from tables using DELETE statements, often combined with filtering or ranking functions to preserve one copy.
